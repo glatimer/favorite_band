@@ -15,3 +15,10 @@ h3 {
   float: left;
   margin: 5px;
 }
+.logo {
+  float: left;
+}
+.right column {
+  float: right;
+  width: 500px;
+}
