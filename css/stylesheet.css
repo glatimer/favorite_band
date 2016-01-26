@@ -5,3 +5,13 @@ h1 {
 h3 {
   text-align: center;
 }
+.sidebar {
+  float: right;
+  background-color: #b8b264;
+}
+
+.column{
+  width: 400px;
+  float: left;
+  margin: 5px;
+}
